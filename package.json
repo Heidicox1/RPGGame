@@ -1,0 +1,25 @@
+{
+  "name": "rpg-quest-adventure",
+  "version": "1.0.0",
+  "description": "An epic React Native RPG adventure game",
+  "main": "App.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.71.0",
+    "expo": "^48.0.0",
+    "expo-splash-screen": "^0.18.0",
+    "expo-status-bar": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-native": "^0.71.0",
+    "jest": "^29.0.0"
+  }
+}
